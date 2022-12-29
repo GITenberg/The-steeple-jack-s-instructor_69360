@@ -1,11 +1,16 @@
 _repo: The-steeple-jack-s-instructor_69360
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69360-h/images/cover.jpg
 creator:
   author:
     agent_name: Murray, Clarence James
     gutenberg_agent_id: '55225'
     url: http://www.gutenberg.org/2009/agents/55225
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69360#The-steeple-jack-s-instructor
 gutenberg_issued: '2022-11-15'
 identifiers:
   gutenberg: '69360'
